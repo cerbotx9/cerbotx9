@@ -77,7 +77,7 @@ Con la mira en alto y con fuerza se sigue adelante!    </span>
 <h1 class="display-1">Arex Gaming Zen</h1>
 <h1>Accesorios PC Gamer </h1>
 
-
+<h1>MISION</h1>
 
     <!-- jQuery -->
     <script src="js/jquery-2.1.1.js"></script>
